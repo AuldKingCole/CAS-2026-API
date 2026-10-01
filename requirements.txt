@@ -1,0 +1,6 @@
+# Core dependencies
+pandas
+numpy
+requests
+scikit-learn
+matplotlib
